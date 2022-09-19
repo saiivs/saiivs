@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @saiivs
+- 👋 Hi, I’m sai
 - 👀 I’m interested in Web & Mobile Application Development
-- 🌱 I’m currently learning MEAN Stack & on going with a e-commerce project
+- 🌱 I’m currently learning MEAN Stack & completed an e-commerce project, currently working over a social media web application.
 - 📫 u can reach me on 9633596087...
 
 <!---
