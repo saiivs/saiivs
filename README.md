@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sai
 - 👀 I’m interested in Web & Mobile Application Development
-- 🌱 I’m currently learning MEAN Stack & completed an e-commerce project, currently working over a social media web application.
+- 🌱 I’m a MEAN Stack Developer with 2 years of exerience.
 - 📫 u can reach me on 9633596087...
 
 <!---
